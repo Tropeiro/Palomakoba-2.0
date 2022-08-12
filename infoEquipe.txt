@@ -1,0 +1,17 @@
+(PO)
+Product Owner: Mateus Henrique
+Equipe: Farofa de Calabresa
+(SM)
+Scrum Master: Bruno Bordin
+
+	Desenvolvedor 1: (Devs)
+	Habilidade:
+	Experiência:
+
+	Desenvolvedor 2: (Devs)
+	Habilidade:
+	Experiência:
+	
+	Desenvolvedor 3: (Devs)
+	Habilidade:
+	Experiência:
