@@ -4,9 +4,9 @@ Equipe: Farofa de Calabresa
 (SM)
 Scrum Master: Bruno Bordin
 
-	Desenvolvedor 1: (Devs)
-	Habilidade:
-	Experiência:
+	Desenvolvedor 1: (Devs) André Felipe
+	Habilidade: Linguagem C
+	Experiência: Iniciante
 
 	Desenvolvedor 2: (Devs)
 	Habilidade:
